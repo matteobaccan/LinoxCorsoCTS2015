@@ -1,2 +1,3 @@
 # LinoxCorsoCTS2015
-xx
+
+Slide di supporto per corso CTS ed uso distribuzione So.Di.Linux	10/11/2015
