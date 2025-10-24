@@ -90,6 +90,8 @@ Esempi suggeriti durante la presentazione:
 
 - Supporto Gmail: [Supporto Gmail](https://support.google.com/mail/answer/7190?hl=it)
 - Documentazione Google Workspace: [Google Workspace](https://workspace.google.com/intl/it/)
+- Materiale originale (PPTX): [Gmail e Google App.pptx](./Gmail%20e%20Google%20App.pptx)
+- Materiale originale (PDF): [Gmail e Google App.pdf](./Gmail%20e%20Google%20App.pdf)
 
 ## Contatti e crediti
 
